@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on any frontend and backend projects
-- 📫 Lets connect on Instagram, link in proile
+- 📫 Lets connect on Instagram, link in profile
 - ⚡ Fun fact: I'm a gym rat.
 
 <!---
