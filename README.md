@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on any frontend and backend projects
 - 📫 Lets connect on Instagram, link in proile
-- ⚡ Fun fact: I'm a gym rat
+- ⚡ Fun fact: I'm a gym rat.
 
 <!---
 KwamzCodes/KwamzCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
