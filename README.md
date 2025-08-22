@@ -1,11 +1,22 @@
-👋 Hi there!
+<h1>Hi, I'm Kwame! </h1>
 
-- I’m passionate about Information Technology (IT) and always eager to learn and explore different areas of the field.
-- 🔭 I’m currently exploring and learning about Networking, System Administration, Virtualisation & Cloud Tech, IT Infrastructure Mgt., Automation & Scripting Tools and Cybersecurity
-- 🌱 I'm using this space to shgare my personal projects, configuration and learning experiences as I grow my IT skills.
-- 🌟Always open to feedback and collaboration within the IT community.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-<!---
-KwamzCodes/KwamzCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- <b>Practical Cybersecurity Lab</b>
+  - [Vulnerabilities Assessment in a Virtualised Environment](https://github.com/KwamzCodes/practical-cybersecurity-lab.git)
+
+<h2>💻 Powershell Projects</h2>
+
+- <b>Windows System Monitoring Dashboard (Powershell + HTML/CSS)</b>
+  - [System Health Dashboard](https://github.com/KwamzCodes/System-Dashboard-PS.git)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Kwame | Dev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />][DEV]
+[<img align="left" alt="Kwame | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][Gmail]
+[<img align="left" alt="Kwame  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[Gmail]: mailto:mikelkwameowusu@gmail.com
+[DEV]: https://dev.to/kwamzdev
+[linkedin]: https://www.linkedin.com/in/kwameowusuit/
